@@ -1,12 +1,17 @@
 
-/* 
+@import url('https://fonts.googleapis.com/css2?family=Ojuju:wght@200;400;500;700&display=swap');
 
-    You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
+h1 {
+    font-family: 'Ojuju', sans-serif;
+    font-weight: 100; 
+    font-size: 5rem; 
+    color: rgb(188, 201, 214);  
+  }
 
-*/
+  
+h2 {
+    font-family: 'Ojuju', sans-serif;
+    font-weight: 100; 
+    font-size: 3rem; 
+    color: rgb(105, 114, 122);  
+  }
